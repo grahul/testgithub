@@ -20,3 +20,6 @@ eight
 nine
 
 ten
+
+
+all are added one to ten
